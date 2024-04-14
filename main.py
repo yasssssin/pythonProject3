@@ -26,3 +26,5 @@ class Tournament:
             return winners[0]
         else:
             return Tournament(winners).play_tournament()
+
+print('test de mise a jour du fichier sur github')
